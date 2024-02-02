@@ -1,2 +1,2 @@
-# AlexYoungDesign.github.io
+# AlexYoungDesign.Portfolio
 Alex Young Design Portfolio
